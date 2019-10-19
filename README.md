@@ -1,1 +1,1 @@
-# camelyon
+# code for the paper ''
