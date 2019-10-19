@@ -1,0 +1,1 @@
+load the ranking data
