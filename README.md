@@ -1,4 +1,5 @@
 # code for the paper 'Few-shot Breast Cancer Metastases Classification via Unsupervised Cell Ranking'
+our method are implemented in the pytorch framework,and the data processing are mainly referred to [here](https://github.com/arjunvekariyagithub/camelyon16-grand-challenge)
 
 ### pre-processing
 extract patches for training
