@@ -21,7 +21,7 @@ finetune the pre-train ranking model
 ```
 @article{title={Few-shot Breast Cancer Metastases Classification via Unsupervised Cell Ranking},
   author={Jiaojiao Chen, Jianbo Jiao, Shengfeng He, Guoqiang Han, and Jing Qin},
-  journal={TCBB},
+  journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics},
   year={2019}
 }
 ```
